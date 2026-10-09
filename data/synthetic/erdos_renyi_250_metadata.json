@@ -1,0 +1,16 @@
+{
+  "topology": "erdos_renyi",
+  "nodes": 250,
+  "directed_edges": 1050,
+  "seed": 42,
+  "uncertainty_ratio": 0.2,
+  "source": 0,
+  "target": 249,
+  "baseline_path": [
+    0,
+    215,
+    182,
+    249
+  ],
+  "baseline_expected_cost": 33.14572
+}

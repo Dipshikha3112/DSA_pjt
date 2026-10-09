@@ -1,0 +1,15 @@
+{
+  "topology": "scale_free",
+  "nodes": 100,
+  "directed_edges": 392,
+  "seed": 42,
+  "uncertainty_ratio": 0.2,
+  "source": 0,
+  "target": 99,
+  "baseline_path": [
+    0,
+    1,
+    99
+  ],
+  "baseline_expected_cost": 20.044764
+}
