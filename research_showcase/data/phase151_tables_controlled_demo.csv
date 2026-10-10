@@ -1,0 +1,3 @@
+method,route,mean_seconds,cvar95_seconds
+Dijkstra (expected cost),S-A-T,15.4,100.0
+CVaR95 minimization,S-B-T,18.0,18.0

@@ -1,0 +1,647 @@
+{
+  "images": [
+    {
+      "src": "assets/phase151_chennai_method_deltas.png",
+      "source": "phase151_results.zip / figures/chennai_method_deltas.png",
+      "group": "phase151",
+      "title": "Chennai Method Deltas"
+    },
+    {
+      "src": "assets/phase151_hyderabad_method_deltas.png",
+      "source": "phase151_results.zip / figures/hyderabad_method_deltas.png",
+      "group": "phase151",
+      "title": "Hyderabad Method Deltas"
+    },
+    {
+      "src": "assets/phase151_jaipur_method_deltas.png",
+      "source": "phase151_results.zip / figures/jaipur_method_deltas.png",
+      "group": "phase151",
+      "title": "Jaipur Method Deltas"
+    },
+    {
+      "src": "assets/phase151_kolkata_method_deltas.png",
+      "source": "phase151_results.zip / figures/kolkata_method_deltas.png",
+      "group": "phase151",
+      "title": "Kolkata Method Deltas"
+    },
+    {
+      "src": "assets/phase151_pune_method_deltas.png",
+      "source": "phase151_results.zip / figures/pune_method_deltas.png",
+      "group": "phase151",
+      "title": "Pune Method Deltas"
+    },
+    {
+      "src": "assets/phase151_controlled_risk_tradeoff.png",
+      "source": "phase151_results.zip / maps/controlled_risk_tradeoff.png",
+      "group": "phase151",
+      "title": "Controlled Risk Tradeoff"
+    },
+    {
+      "src": "assets/phase151_phase13_chennai_1.png",
+      "source": "phase151_results.zip / maps/phase13_chennai_1.png",
+      "group": "phase151",
+      "title": "Phase13 Chennai 1"
+    },
+    {
+      "src": "assets/phase151_phase13_chennai_2.png",
+      "source": "phase151_results.zip / maps/phase13_chennai_2.png",
+      "group": "phase151",
+      "title": "Phase13 Chennai 2"
+    },
+    {
+      "src": "assets/phase151_phase13_chennai_3.png",
+      "source": "phase151_results.zip / maps/phase13_chennai_3.png",
+      "group": "phase151",
+      "title": "Phase13 Chennai 3"
+    },
+    {
+      "src": "assets/phase151_phase13_hyderabad_1.png",
+      "source": "phase151_results.zip / maps/phase13_hyderabad_1.png",
+      "group": "phase151",
+      "title": "Phase13 Hyderabad 1"
+    },
+    {
+      "src": "assets/phase151_phase13_jaipur_1.png",
+      "source": "phase151_results.zip / maps/phase13_jaipur_1.png",
+      "group": "phase151",
+      "title": "Phase13 Jaipur 1"
+    },
+    {
+      "src": "assets/phase151_phase13_jaipur_2.png",
+      "source": "phase151_results.zip / maps/phase13_jaipur_2.png",
+      "group": "phase151",
+      "title": "Phase13 Jaipur 2"
+    },
+    {
+      "src": "assets/phase151_phase13_jaipur_3.png",
+      "source": "phase151_results.zip / maps/phase13_jaipur_3.png",
+      "group": "phase151",
+      "title": "Phase13 Jaipur 3"
+    },
+    {
+      "src": "assets/phase151_phase13_kolkata_1.png",
+      "source": "phase151_results.zip / maps/phase13_kolkata_1.png",
+      "group": "phase151",
+      "title": "Phase13 Kolkata 1"
+    },
+    {
+      "src": "assets/phase151_phase13_kolkata_2.png",
+      "source": "phase151_results.zip / maps/phase13_kolkata_2.png",
+      "group": "phase151",
+      "title": "Phase13 Kolkata 2"
+    },
+    {
+      "src": "assets/phase151_phase13_kolkata_3.png",
+      "source": "phase151_results.zip / maps/phase13_kolkata_3.png",
+      "group": "phase151",
+      "title": "Phase13 Kolkata 3"
+    },
+    {
+      "src": "assets/phase151_phase13_pune_1.png",
+      "source": "phase151_results.zip / maps/phase13_pune_1.png",
+      "group": "phase151",
+      "title": "Phase13 Pune 1"
+    },
+    {
+      "src": "assets/phase151_phase13_pune_2.png",
+      "source": "phase151_results.zip / maps/phase13_pune_2.png",
+      "group": "phase151",
+      "title": "Phase13 Pune 2"
+    },
+    {
+      "src": "assets/phase151_phase13_pune_3.png",
+      "source": "phase151_results.zip / maps/phase13_pune_3.png",
+      "group": "phase151",
+      "title": "Phase13 Pune 3"
+    },
+    {
+      "src": "assets/phase151_road_constrained_1.png",
+      "source": "phase151_results.zip / maps/road_constrained_1.png",
+      "group": "phase151",
+      "title": "Road Constrained 1"
+    },
+    {
+      "src": "assets/phase151_road_constrained_2.png",
+      "source": "phase151_results.zip / maps/road_constrained_2.png",
+      "group": "phase151",
+      "title": "Road Constrained 2"
+    },
+    {
+      "src": "assets/phase151_road_constrained_3.png",
+      "source": "phase151_results.zip / maps/road_constrained_3.png",
+      "group": "phase151",
+      "title": "Road Constrained 3"
+    },
+    {
+      "src": "assets/phase151_road_suburban_1.png",
+      "source": "phase151_results.zip / maps/road_suburban_1.png",
+      "group": "phase151",
+      "title": "Road Suburban 1"
+    },
+    {
+      "src": "assets/phase151_road_suburban_2.png",
+      "source": "phase151_results.zip / maps/road_suburban_2.png",
+      "group": "phase151",
+      "title": "Road Suburban 2"
+    },
+    {
+      "src": "assets/phase151_road_suburban_3.png",
+      "source": "phase151_results.zip / maps/road_suburban_3.png",
+      "group": "phase151",
+      "title": "Road Suburban 3"
+    },
+    {
+      "src": "assets/phase151_road_urban_1.png",
+      "source": "phase151_results.zip / maps/road_urban_1.png",
+      "group": "phase151",
+      "title": "Road Urban 1"
+    },
+    {
+      "src": "assets/phase151_road_urban_2.png",
+      "source": "phase151_results.zip / maps/road_urban_2.png",
+      "group": "phase151",
+      "title": "Road Urban 2"
+    },
+    {
+      "src": "assets/phase151_road_urban_3.png",
+      "source": "phase151_results.zip / maps/road_urban_3.png",
+      "group": "phase151",
+      "title": "Road Urban 3"
+    },
+    {
+      "src": "assets/phase151_synthetic_grid_1.png",
+      "source": "phase151_results.zip / maps/synthetic_grid_1.png",
+      "group": "phase151",
+      "title": "Synthetic Grid 1"
+    },
+    {
+      "src": "assets/phase151_synthetic_grid_2.png",
+      "source": "phase151_results.zip / maps/synthetic_grid_2.png",
+      "group": "phase151",
+      "title": "Synthetic Grid 2"
+    },
+    {
+      "src": "assets/phase13_chennai_pair0_rho0.65_convergence.png",
+      "source": "phase13_full_results.zip / figures/chennai_pair0_rho0.65_convergence.png",
+      "group": "phase13",
+      "title": "Chennai Pair0 Rho0.65 Convergence"
+    },
+    {
+      "src": "assets/phase13_chennai_pair0_rho0.65_cvar_tail.png",
+      "source": "phase13_full_results.zip / figures/chennai_pair0_rho0.65_cvar_tail.png",
+      "group": "phase13",
+      "title": "Chennai Pair0 Rho0.65 Cvar Tail"
+    },
+    {
+      "src": "assets/phase13_chennai_pair0_rho0.65_monte_carlo_hist.png",
+      "source": "phase13_full_results.zip / figures/chennai_pair0_rho0.65_monte_carlo_hist.png",
+      "group": "phase13",
+      "title": "Chennai Pair0 Rho0.65 Monte Carlo Hist"
+    },
+    {
+      "src": "assets/phase13_chennai_pair0_rho0.65_routes.png",
+      "source": "phase13_full_results.zip / figures/chennai_pair0_rho0.65_routes.png",
+      "group": "phase13",
+      "title": "Chennai Pair0 Rho0.65 Routes"
+    },
+    {
+      "src": "assets/phase13_hyderabad_pair0_rho0.65_convergence.png",
+      "source": "phase13_full_results.zip / figures/hyderabad_pair0_rho0.65_convergence.png",
+      "group": "phase13",
+      "title": "Hyderabad Pair0 Rho0.65 Convergence"
+    },
+    {
+      "src": "assets/phase13_hyderabad_pair0_rho0.65_cvar_tail.png",
+      "source": "phase13_full_results.zip / figures/hyderabad_pair0_rho0.65_cvar_tail.png",
+      "group": "phase13",
+      "title": "Hyderabad Pair0 Rho0.65 Cvar Tail"
+    },
+    {
+      "src": "assets/phase13_hyderabad_pair0_rho0.65_monte_carlo_hist.png",
+      "source": "phase13_full_results.zip / figures/hyderabad_pair0_rho0.65_monte_carlo_hist.png",
+      "group": "phase13",
+      "title": "Hyderabad Pair0 Rho0.65 Monte Carlo Hist"
+    },
+    {
+      "src": "assets/phase13_hyderabad_pair0_rho0.65_routes.png",
+      "source": "phase13_full_results.zip / figures/hyderabad_pair0_rho0.65_routes.png",
+      "group": "phase13",
+      "title": "Hyderabad Pair0 Rho0.65 Routes"
+    },
+    {
+      "src": "assets/phase13_jaipur_pair0_rho0.65_convergence.png",
+      "source": "phase13_full_results.zip / figures/jaipur_pair0_rho0.65_convergence.png",
+      "group": "phase13",
+      "title": "Jaipur Pair0 Rho0.65 Convergence"
+    },
+    {
+      "src": "assets/phase13_jaipur_pair0_rho0.65_cvar_tail.png",
+      "source": "phase13_full_results.zip / figures/jaipur_pair0_rho0.65_cvar_tail.png",
+      "group": "phase13",
+      "title": "Jaipur Pair0 Rho0.65 Cvar Tail"
+    },
+    {
+      "src": "assets/phase13_jaipur_pair0_rho0.65_monte_carlo_hist.png",
+      "source": "phase13_full_results.zip / figures/jaipur_pair0_rho0.65_monte_carlo_hist.png",
+      "group": "phase13",
+      "title": "Jaipur Pair0 Rho0.65 Monte Carlo Hist"
+    },
+    {
+      "src": "assets/phase13_jaipur_pair0_rho0.65_routes.png",
+      "source": "phase13_full_results.zip / figures/jaipur_pair0_rho0.65_routes.png",
+      "group": "phase13",
+      "title": "Jaipur Pair0 Rho0.65 Routes"
+    },
+    {
+      "src": "assets/phase13_kolkata_pair0_rho0.65_convergence.png",
+      "source": "phase13_full_results.zip / figures/kolkata_pair0_rho0.65_convergence.png",
+      "group": "phase13",
+      "title": "Kolkata Pair0 Rho0.65 Convergence"
+    },
+    {
+      "src": "assets/phase13_kolkata_pair0_rho0.65_cvar_tail.png",
+      "source": "phase13_full_results.zip / figures/kolkata_pair0_rho0.65_cvar_tail.png",
+      "group": "phase13",
+      "title": "Kolkata Pair0 Rho0.65 Cvar Tail"
+    },
+    {
+      "src": "assets/phase13_kolkata_pair0_rho0.65_monte_carlo_hist.png",
+      "source": "phase13_full_results.zip / figures/kolkata_pair0_rho0.65_monte_carlo_hist.png",
+      "group": "phase13",
+      "title": "Kolkata Pair0 Rho0.65 Monte Carlo Hist"
+    },
+    {
+      "src": "assets/phase13_kolkata_pair0_rho0.65_routes.png",
+      "source": "phase13_full_results.zip / figures/kolkata_pair0_rho0.65_routes.png",
+      "group": "phase13",
+      "title": "Kolkata Pair0 Rho0.65 Routes"
+    },
+    {
+      "src": "assets/phase13_pune_pair0_rho0.65_convergence.png",
+      "source": "phase13_full_results.zip / figures/pune_pair0_rho0.65_convergence.png",
+      "group": "phase13",
+      "title": "Pune Pair0 Rho0.65 Convergence"
+    },
+    {
+      "src": "assets/phase13_pune_pair0_rho0.65_cvar_tail.png",
+      "source": "phase13_full_results.zip / figures/pune_pair0_rho0.65_cvar_tail.png",
+      "group": "phase13",
+      "title": "Pune Pair0 Rho0.65 Cvar Tail"
+    },
+    {
+      "src": "assets/phase13_pune_pair0_rho0.65_monte_carlo_hist.png",
+      "source": "phase13_full_results.zip / figures/pune_pair0_rho0.65_monte_carlo_hist.png",
+      "group": "phase13",
+      "title": "Pune Pair0 Rho0.65 Monte Carlo Hist"
+    },
+    {
+      "src": "assets/phase13_pune_pair0_rho0.65_routes.png",
+      "source": "phase13_full_results.zip / figures/pune_pair0_rho0.65_routes.png",
+      "group": "phase13",
+      "title": "Pune Pair0 Rho0.65 Routes"
+    },
+    {
+      "src": "assets/phase15_phase13_chennai_paired_effects.png",
+      "source": "phase15_results.zip / figures/phase13_chennai_paired_effects.png",
+      "group": "phase15",
+      "title": "Phase13 Chennai Paired Effects"
+    },
+    {
+      "src": "assets/phase15_phase13_hyderabad_paired_effects.png",
+      "source": "phase15_results.zip / figures/phase13_hyderabad_paired_effects.png",
+      "group": "phase15",
+      "title": "Phase13 Hyderabad Paired Effects"
+    },
+    {
+      "src": "assets/phase15_phase13_jaipur_paired_effects.png",
+      "source": "phase15_results.zip / figures/phase13_jaipur_paired_effects.png",
+      "group": "phase15",
+      "title": "Phase13 Jaipur Paired Effects"
+    },
+    {
+      "src": "assets/phase15_phase13_kolkata_paired_effects.png",
+      "source": "phase15_results.zip / figures/phase13_kolkata_paired_effects.png",
+      "group": "phase15",
+      "title": "Phase13 Kolkata Paired Effects"
+    },
+    {
+      "src": "assets/phase15_phase13_pune_paired_effects.png",
+      "source": "phase15_results.zip / figures/phase13_pune_paired_effects.png",
+      "group": "phase15",
+      "title": "Phase13 Pune Paired Effects"
+    },
+    {
+      "src": "assets/phase15_phase14_primary_intervals.png",
+      "source": "phase15_results.zip / figures/phase14_primary_intervals.png",
+      "group": "phase15",
+      "title": "Phase14 Primary Intervals"
+    },
+    {
+      "src": "assets/phase15_phase7_erdos_renyi_comparison.png",
+      "source": "phase15_results.zip / figures/phase7_erdos_renyi_comparison.png",
+      "group": "phase15",
+      "title": "Phase7 Erdos Renyi Comparison"
+    },
+    {
+      "src": "assets/phase15_phase7_grid_comparison.png",
+      "source": "phase15_results.zip / figures/phase7_grid_comparison.png",
+      "group": "phase15",
+      "title": "Phase7 Grid Comparison"
+    },
+    {
+      "src": "assets/phase15_phase7_scale_free_comparison.png",
+      "source": "phase15_results.zip / figures/phase7_scale_free_comparison.png",
+      "group": "phase15",
+      "title": "Phase7 Scale Free Comparison"
+    },
+    {
+      "src": "assets/phase15_phase13_chennai_correlated_gamma.png",
+      "source": "phase15_results.zip / maps/phase13_chennai_correlated_gamma.png",
+      "group": "phase15",
+      "title": "Phase13 Chennai Correlated Gamma"
+    },
+    {
+      "src": "assets/phase15_phase13_hyderabad_correlated_gamma.png",
+      "source": "phase15_results.zip / maps/phase13_hyderabad_correlated_gamma.png",
+      "group": "phase15",
+      "title": "Phase13 Hyderabad Correlated Gamma"
+    },
+    {
+      "src": "assets/phase15_phase13_jaipur_correlated_gamma.png",
+      "source": "phase15_results.zip / maps/phase13_jaipur_correlated_gamma.png",
+      "group": "phase15",
+      "title": "Phase13 Jaipur Correlated Gamma"
+    },
+    {
+      "src": "assets/phase15_phase13_kolkata_correlated_gamma.png",
+      "source": "phase15_results.zip / maps/phase13_kolkata_correlated_gamma.png",
+      "group": "phase15",
+      "title": "Phase13 Kolkata Correlated Gamma"
+    },
+    {
+      "src": "assets/phase15_phase13_pune_correlated_gamma.png",
+      "source": "phase15_results.zip / maps/phase13_pune_correlated_gamma.png",
+      "group": "phase15",
+      "title": "Phase13 Pune Correlated Gamma"
+    },
+    {
+      "src": "assets/phase15_road_constrained.png",
+      "source": "phase15_results.zip / maps/road_constrained.png",
+      "group": "phase15",
+      "title": "Road Constrained"
+    },
+    {
+      "src": "assets/phase15_road_suburban.png",
+      "source": "phase15_results.zip / maps/road_suburban.png",
+      "group": "phase15",
+      "title": "Road Suburban"
+    },
+    {
+      "src": "assets/phase15_road_urban.png",
+      "source": "phase15_results.zip / maps/road_urban.png",
+      "group": "phase15",
+      "title": "Road Urban"
+    },
+    {
+      "src": "assets/phase15_synthetic_erdos_renyi.png",
+      "source": "phase15_results.zip / maps/synthetic_erdos_renyi.png",
+      "group": "phase15",
+      "title": "Synthetic Erdos Renyi"
+    },
+    {
+      "src": "assets/phase15_synthetic_grid.png",
+      "source": "phase15_results.zip / maps/synthetic_grid.png",
+      "group": "phase15",
+      "title": "Synthetic Grid"
+    },
+    {
+      "src": "assets/phase15_synthetic_scale_free.png",
+      "source": "phase15_results.zip / maps/synthetic_scale_free.png",
+      "group": "phase15",
+      "title": "Synthetic Scale Free"
+    }
+  ],
+  "audit": {
+    "phase": "15.1",
+    "synthetic": {
+      "erdos_renyi": {
+        "compared": 24,
+        "disagreements": 0
+      },
+      "grid": {
+        "compared": 24,
+        "disagreements": 2
+      },
+      "scale_free": {
+        "compared": 24,
+        "disagreements": 0
+      }
+    },
+    "phase11": {
+      "urban": {
+        "comparisons": 60,
+        "disagreements": 15
+      },
+      "suburban": {
+        "comparisons": 60,
+        "disagreements": 21
+      },
+      "constrained": {
+        "comparisons": 60,
+        "disagreements": 12
+      }
+    },
+    "phase13": {
+      "pune": {
+        "comparisons": 60,
+        "disagreements": 14
+      },
+      "hyderabad": {
+        "comparisons": 60,
+        "disagreements": 1
+      },
+      "chennai": {
+        "comparisons": 60,
+        "disagreements": 5
+      },
+      "jaipur": {
+        "comparisons": 60,
+        "disagreements": 4
+      },
+      "kolkata": {
+        "comparisons": 60,
+        "disagreements": 6
+      }
+    },
+    "warnings": [
+      "Route maps are reconstructed using original graph caches and deterministic candidate generation; do not interpret mismatched caches as original routes.",
+      "Lowest held-out CVaR95 is scenario-specific, not universal superiority.",
+      "Phase 7 costs are abstract units; road networks use seconds.",
+      "Phase 11/13 and synthetic examples are separate studies.",
+      "Correlated Gamma rho is a mixing weight, not a Pearson correlation."
+    ],
+    "controlled_demo": "Two-route exact distribution; separate from empirical results."
+  },
+  "cityRows": [
+    {
+      "area": "chennai",
+      "method": "iid_cvar95",
+      "pairs": "15",
+      "changed": "2",
+      "mean_delta_cvar95_seconds": "-0.667265968229583",
+      "mean_delta_mean_seconds": "0.09331768619659565"
+    },
+    {
+      "area": "chennai",
+      "method": "minimax_regret_cvar95",
+      "pairs": "15",
+      "changed": "2",
+      "mean_delta_cvar95_seconds": "-0.667265968229583",
+      "mean_delta_mean_seconds": "0.09331768619659565"
+    },
+    {
+      "area": "chennai",
+      "method": "mixture_cvar95",
+      "pairs": "15",
+      "changed": "1",
+      "mean_delta_cvar95_seconds": "-0.47259029915440276",
+      "mean_delta_mean_seconds": "0.06322390887390128"
+    },
+    {
+      "area": "chennai",
+      "method": "worst_model_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "hyderabad",
+      "method": "iid_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "hyderabad",
+      "method": "minimax_regret_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "hyderabad",
+      "method": "mixture_cvar95",
+      "pairs": "15",
+      "changed": "1",
+      "mean_delta_cvar95_seconds": "0.1776821969809551",
+      "mean_delta_mean_seconds": "0.012895445577919417"
+    },
+    {
+      "area": "hyderabad",
+      "method": "worst_model_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "jaipur",
+      "method": "iid_cvar95",
+      "pairs": "15",
+      "changed": "2",
+      "mean_delta_cvar95_seconds": "-0.5456154884280674",
+      "mean_delta_mean_seconds": "0.17824423239057788"
+    },
+    {
+      "area": "jaipur",
+      "method": "minimax_regret_cvar95",
+      "pairs": "15",
+      "changed": "2",
+      "mean_delta_cvar95_seconds": "-0.5456154884280674",
+      "mean_delta_mean_seconds": "0.17824423239057788"
+    },
+    {
+      "area": "jaipur",
+      "method": "mixture_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "jaipur",
+      "method": "worst_model_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "kolkata",
+      "method": "iid_cvar95",
+      "pairs": "15",
+      "changed": "2",
+      "mean_delta_cvar95_seconds": "-0.24163412900263664",
+      "mean_delta_mean_seconds": "0.06419975714060797"
+    },
+    {
+      "area": "kolkata",
+      "method": "minimax_regret_cvar95",
+      "pairs": "15",
+      "changed": "4",
+      "mean_delta_cvar95_seconds": "-2.3193376081216988",
+      "mean_delta_mean_seconds": "0.958477834995126"
+    },
+    {
+      "area": "kolkata",
+      "method": "mixture_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "kolkata",
+      "method": "worst_model_cvar95",
+      "pairs": "15",
+      "changed": "0",
+      "mean_delta_cvar95_seconds": "0.0",
+      "mean_delta_mean_seconds": "0.0"
+    },
+    {
+      "area": "pune",
+      "method": "iid_cvar95",
+      "pairs": "15",
+      "changed": "4",
+      "mean_delta_cvar95_seconds": "-4.179602364083178",
+      "mean_delta_mean_seconds": "0.49336526237430955"
+    },
+    {
+      "area": "pune",
+      "method": "minimax_regret_cvar95",
+      "pairs": "15",
+      "changed": "5",
+      "mean_delta_cvar95_seconds": "-6.513801816201169",
+      "mean_delta_mean_seconds": "1.402736982235632"
+    },
+    {
+      "area": "pune",
+      "method": "mixture_cvar95",
+      "pairs": "15",
+      "changed": "4",
+      "mean_delta_cvar95_seconds": "-4.179602364083178",
+      "mean_delta_mean_seconds": "0.49336526237430955"
+    },
+    {
+      "area": "pune",
+      "method": "worst_model_cvar95",
+      "pairs": "15",
+      "changed": "1",
+      "mean_delta_cvar95_seconds": "-0.3136151367039664",
+      "mean_delta_mean_seconds": "-0.01915199473295767"
+    }
+  ]
+}

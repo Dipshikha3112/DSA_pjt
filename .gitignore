@@ -33,3 +33,18 @@ outputs/plots/
 *.tmp
 .DS_Store
 Thumbs.db
+# Large downloaded datasets
+data/osm_extracts/
+cache/
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Generated result archives
+phase104_results.zip
+data/results/*.zip
+
+# Temporary files
+*.tmp

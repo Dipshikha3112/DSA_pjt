@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "issues": [],
+  "counts": {
+    "algorithm_results.csv": 22500,
+    "paired_results.csv": 18000,
+    "route_stability.csv": 7500,
+    "candidate_audit.csv": 1500
+  },
+  "areas": [
+    "chennai",
+    "hyderabad",
+    "jaipur",
+    "kolkata",
+    "pune"
+  ],
+  "shifts": [
+    "correlated_gamma",
+    "heavy_lognormal",
+    "iid_gamma"
+  ],
+  "rho": [
+    0.0,
+    0.35,
+    0.65,
+    0.9
+  ],
+  "dev_n": [
+    250,
+    500,
+    1000,
+    2000,
+    5000
+  ]
+}

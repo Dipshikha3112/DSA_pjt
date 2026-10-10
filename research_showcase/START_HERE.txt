@@ -1,0 +1,18 @@
+BEYOND THE SHORTEST PATH — INTERACTIVE RESEARCH SHOWCASE
+
+1. Extract the ZIP fully to a folder.
+2. Double-click index.html in Microsoft Edge or Chrome. Internet is not needed.
+3. Click Auto-play for automatic slides; adjust 6/10/16/25 seconds.
+4. Use arrow keys to navigate, Space to pause/play, F for fullscreen.
+5. Click Enlarge on a figure. Final slide contains a gallery of every included figure.
+6. To show new images from your own project directory, click + Import images and select a folder. They appear in the gallery for this browser session; no files are uploaded.
+
+Images are copied from actual phase13_full_results.zip, phase15_results.zip, and phase151_results.zip.
+The audit CSV/JSON files are in data/. The dashboard does not invent experimental measurements.
+Some earlier phases are summarized at a conceptual level; figures are explicitly sourced from later phases.
+
+Optional local server (if browser blocks local assets):
+python -m http.server 8501
+then open http://localhost:8501/
+
+To replace an image with a newly generated version, overwrite its matching file under assets/.

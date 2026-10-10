@@ -1,0 +1,61 @@
+{
+  "phase": "15.1",
+  "synthetic": {
+    "erdos_renyi": {
+      "compared": 24,
+      "disagreements": 0
+    },
+    "grid": {
+      "compared": 24,
+      "disagreements": 2
+    },
+    "scale_free": {
+      "compared": 24,
+      "disagreements": 0
+    }
+  },
+  "phase11": {
+    "urban": {
+      "comparisons": 60,
+      "disagreements": 15
+    },
+    "suburban": {
+      "comparisons": 60,
+      "disagreements": 21
+    },
+    "constrained": {
+      "comparisons": 60,
+      "disagreements": 12
+    }
+  },
+  "phase13": {
+    "pune": {
+      "comparisons": 60,
+      "disagreements": 14
+    },
+    "hyderabad": {
+      "comparisons": 60,
+      "disagreements": 1
+    },
+    "chennai": {
+      "comparisons": 60,
+      "disagreements": 5
+    },
+    "jaipur": {
+      "comparisons": 60,
+      "disagreements": 4
+    },
+    "kolkata": {
+      "comparisons": 60,
+      "disagreements": 6
+    }
+  },
+  "warnings": [
+    "Route maps are reconstructed using original graph caches and deterministic candidate generation; do not interpret mismatched caches as original routes.",
+    "Lowest held-out CVaR95 is scenario-specific, not universal superiority.",
+    "Phase 7 costs are abstract units; road networks use seconds.",
+    "Phase 11/13 and synthetic examples are separate studies.",
+    "Correlated Gamma rho is a mixing weight, not a Pearson correlation."
+  ],
+  "controlled_demo": "Two-route exact distribution; separate from empirical results."
+}
